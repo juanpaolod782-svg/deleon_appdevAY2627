@@ -21,3 +21,7 @@ Logcat helped me a lot because I could filter it using the tag "LabCheckLifecycl
 For the enhancements, I made the header show "CompLab 1" and the app's applicationId. I also added a Clear Log button that resets the log on the screen, and it doesn't crash when I rotate the phone.
 
 The main problem I had was that the code wouldn't build at first because it uses view binding. I had to turn on viewBinding in build.gradle.kts and sync Gradle. I also had to change the package name from the sample code to my own (deleon_appdev).
+
+## Lab Activity 2: discussion
+
+Lab 2 discussion
